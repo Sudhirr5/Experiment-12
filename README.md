@@ -53,4 +53,4 @@ def test_addition():
 <img width="1073" height="297" alt="image" src="https://github.com/user-attachments/assets/ddafe054-0503-4dab-b13d-8a3507bd06f5" />
 
 ### Result:
-Thus, the **Pytest program for Addition (EX12 & TEST\_EX12)** was successfully written, executed, and tested. ✅
+Thus, the **Pytest program for Addition (EX12 & TEST\_EX12)** was successfully written, executed, and tested.
